@@ -55,6 +55,8 @@ body {
 
 .achievementText {
   color: purple;
+  /* font-size: 2em; */
+  font-family: sans-serif;
 }
 
 ul {
